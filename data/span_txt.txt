@@ -1,0 +1,184 @@
+Technical Paper Writing & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 1 TECHNICAL PAPER WRITING & IPR UNIT -I ___________________________ ____________________________ SYLLABUS: Introduction: An introduction to the writing of technical reports, formation of technical sentences, using transitions to join sentences, using times for technical writing. Planning and structuring: Report planning, identification of readers, Voice, Formation and structuring of the report, sections of a technical report, minutes of meeting writing.
+
+_________________________________ _________________ _ _________________ _ ___________ Introduction to the drafting of a technical report What is a technical report?
+
+A technical report is a formal document that presents information about a technical topic, project, experiment or process in a systematic, factual, and objective manner.Unlike essays or journal articles, a technical report focuses on presenting data, analysis, and results clearly so that others can understand, replicate, or make decisions based on the results.
+
+• Purpose: Documentary and communicate technical information.
+
+• To support decision-making or provide recommendations.
+
+• To record experiments or design results for future reference.
+
+• Demonstrate technical competence and professionalism.
+
+• Written characteristics for a specific purpose and a specific audience.
+
+• Structured into sections such as the Abstract, the Methodology, the Results and the Conclusions.
+
+• Focuses on objectivity , clarity and precision .
+
+• Incorporate visual data such as graphs, charts, tables and figures.
+
+• Written in a formal and impersonal style, avoiding emotion or prejudice.
+
+Common applications • Laboratory reports in universities.
+
+• Project reports or engineering/business feasibility reports.
+
+• Research reports for scientific documentation.
+
+• Reports on the progress or state of the organizations.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 2 Importance of sentence structure In technical writing, each sentence must convey a clear and logical idea.
+
+Clarity Express an idea through prayer.
+
+O Not clear: After heating, the mixture changed, which could be due to impurity. o Ready: After heating, the mixture changed color, indicating a possible contamination.
+
+Vago: The machine worked for some time. o Precision: The machine worked continuously for 3 hours. 3. Brevidad Eliminate unnecessary words without losing meaning.
+
+Wordy: It was found that it is necessary to cool the sample. o In short: The sample should be cooled. 4. Parallelism Maintain a consistent grammatical pattern in lists or series.
+
+o Wrong: The objectives are to increase efficiency, reduce costs and improve accuracy. o Right: The objectives are to increase efficiency, reduce costs and improve accuracy.
+
+Active: We have carried out the experiment. or Passive: The experiment has been carried out. Common Fallos • Pronouns ambiguous (e.g., it,this) • Too long phrases • Redundant words (completely complete, time period) • Unexplained jargon TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Nee , Asst, CSElima CIC Sagi Rama Krishnam Raju Engineering College (A) 3 o Using Transitions to join phrases Purpose of Transitions Transitions act as bridges between ideas, phrases and paragraphs. Help the reader to follow the logical flow of thought in the written language, where clarity and sound are fundamental.
+
+In addition, in addition, in addition, in contrast, however, but, on the other hand, although Causeeffect therefore, as a consequence, consequently, as a result Sequence/Order first, second, next, finally, subsequently Example/Illustration for example, for example, that is, as a Comparison similarly, in the same way Conclusion/Resume in conclusion, in general, therefore, to summarize Example • Without transitions: The material warmed to 100 °C. The reaction did not begin. • With transitions: The material warmed to 100 °C; however, the reaction did not begin. Tips • Avoid starting each sentence with y, but, or so.
+
+• The excessive use of transitions can cause artificial writing to be used only when it improves clarity.
+
+Using tensions in technical writing sets the time frame for its actions, findings and interpretations.The consistent use of tensions is essential to maintaining clarity and professionalism.
+
+Guías generales • Past tense → Used to describe methods, experiments and results.
+
+• Present tense → It is used for general truths, established theories and ongoing discussions.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 4 • Future time → Used for recommendations or planned work.
+
+This report analyzes the design of... Past methods Samples were heated to 300 °C. Past results The reaction produced a bluish residue. Present Discussion This indicates that the catalyst increases activity. Conclusion/ Present or Future Recommendations It is recommended that more tests be performed.
+
+Planning the technical report is the first and most important step in the drafting of the technical report, which involves deciding what to write, how to write and for whom to write.
+
+The importance of planning • Saves time and effort • Avoids repetition and lack of information • Ensures the logical flow of ideas • Improves quality and clarity a. Definition of the purpose of the report The writer must clearly define why the report is being written.
+
+Common purposes include: • To inform TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 5 • To analyze • To evaluate • To recommend • To document technical work b. By selecting the type of technical report Based on the purpose, the writer selects the type of report: • laboratory report • research report • progress report • feasibility report • project report • Each type of report has a specific structure and tone.
+
+Identifying the reader (s) Identifying the reader is one of the most important planning steps.
+
+Technical readers or engineers, scientists or Require detailed data, formulas and diagrams 2. Semi-technical readers or managers, supervisors or interested in results and recommendations 3. Non-technical readers or customers, public officials or Require language and simple explanations Planning helps to adjust: • Language level • Technical depth • Use of TECHNICAL PAPER RITING & IPR images [B23AC3201 ] A.Nee , Asst, CSE Clima Sagi Rama Krishnam Raju Engineering (A) 6 d. Collecting information must be: • Accurate • Reliable • Sources of information • Updated • Experiments and observations • Surveys and directories • Books and journals • Company data Manual • Poor company data • Information on the poor information • Information on the technical records • Information on the poor information of the reporting professionals.
+
+E. Analyze and organize information The data collected must be: • Studied • Classified • Compared • Interpreted Unnecessary information must be deleted to maintain clarity.
+
+f. Preparing a schema A schema is the skeleton of the report.
+
+The importance of a scheme • Organize ideas logically • Ensure integrity • Prevent repetition of sample scheme 1. Introduction 2. Objectives TECHNICAL PAPER RITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 7 3. Methodology 4. Results 5. Discourse 6. Conclusion 7. Recommendations g. Programming and planning of time management also include: • Establishing deadlines • Preparation of projects • Editing and correction • Final sending Identifying readers (s) / Analysis of the ability to understand your audience audience audience level of detail, tone and vocabulary used.
+
+Types of audiences 1. technical readers Have a solid technical knowledge (engineers, scientists).
+
+Managers, clients, policy makers.They prefer concise summaries and visual aids to hierarchy.
+
+Mixed audience Combine both approaches: brief executive summary + detailed technical staff.
+
+Questions to consider ¿Qué ya sabe el lector?
+
+• What do you need to know?
+
+• What decisions will be made based on this report?
+
+Example of explaining a chemical process: • For experts: give reaction and kinetic equations.
+
+• For executives: describe the results and profitability.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 8 Voice in Technical Writing Voice refers to the relationship between subject and action (active vs passive).
+
+Active Voice • The subject performs the action.
+
+Example: The engineer tested the prototype. • Called, direct, but can sound personal.
+
+Passive voice • The subject receives the action.
+
+Example: The prototype was tested by the engineer. • More objective and commonly used in technical contexts.
+
+When using • Use active voice when explaining who is doing the important thing.
+
+• Use passive al centrarse on what happened, not who did it.
+
+Balancing too much passive voice can make the writing ambiguous, alternating between active and passive to get clarity and emphasis.
+
+The right format greatly improves readability, professionalism and consistency.
+
+Essential format elements • Source: Times New Roman or Arial, 12 p.
+
+• Line spacing: 1.5 or double.
+
+• Margin: 1 inch in all directions.
+
+• Numbered headings and subheadings.
+
+• Figures and tables duly labeled and referenced in the text.
+
+• Uniform citation style (APA, IEEE, etc.).
+
+Components of the document • Title page: Number, title of the report, organization, date.
+
+• Table of contents: automatically generated for navigation.
+
+• Page count: Consistent everywhere.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 9 • Title hierarchy: Example 1.0 Introduction → 1.1 Background → 1.1.1 Purpose.
+
+Format tips • Use bullet points and numbering for clarity.
+
+• Maintain consistent alignment and inclination.
+
+• Include titles for figures/tables immediately below them.
+
+A complete technical report includes: 1. Title page Includes the title, author, date, organization and number of the project.
+
+Abstract/Executive Summary 150250 words summarizing the purpose, methods, results and conclusions.
+
+3. the table of contents Provides a quick navigation.
+
+Introduction Introduce the problem, the objectives and the context.
+
+5.Review of literature (optional) General revisions of previous work or theory.
+
+6.Method Details of procedures, equipment, materials and measurements.
+
+7.Results Presents the data clearly using images and explanations.
+
+8. Discourse Interpret and analyze the results; explain the importance.
+
+9.Conclusions Highlight the main findings; respond to objectives.
+
+10. recommendations Suggest actions, improvements or more research.
+
+11.- References Lists of all the sources cited.
+
+12. the appendices contain raw data, formulas or detailed calculations.
+
+Minutes are official written records of discussions, decisions and actions of a meeting, offer responsibility, serve as legal documentation, and help track progress.
+
+The structure of the minutes 1.Heading: Include the organization, date, time, location and attendants.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 10 2.The purpose: Indicate the purpose of the meeting or summary of the agenda.
+
+Body: organized by agenda items. for each item, note: o Brief summary of the discussion.
+
+The decisions are made in the tomatoes.
+
+o Assigned actions and responsible persons.
+
+Conclusion: Record closing comments or details of the next meeting.
+
+5.- Signature: Prepared by the secretary/register with name and date.
+
+Example Item Form No. Agenda Item Discussion Summary of decision/action Person Responsible Deadline 1 Update of project task 2 delayed due to a supply problem Extend the schedule by 1 week Project manager Dec 15 2025 2 Budget revision approved budget revised Notify the finance department Secretary Dec 10 2025 Tips for writing minutes • Write in the past and in the third person.
+
+• Keep neutral language, no opinions or judgments.
+
+• Record only key points in not all conversations.
+
+• Review and disseminate immediately after the meeting.
+

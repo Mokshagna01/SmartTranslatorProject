@@ -1,0 +1,184 @@
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 1 TECHNICAL PAPER WRITING & IPR UNIT -I ___________________________ ____________________________________________ SYLLABUS: Introducción: Una introducción a la escritura de informes técnicos, formación de oraciones técnicas, utilizando transiciones para unir oraciones, Usando tiempos para la escritura técnica. Planificación y estructuración: Planificación del informe, identificación de lectores(s), Voz, Formado y estructuración del informe, Secciones de un informe técnico, Minutos de la escritura de reuniones.
+
+_________________________________________________________ _________________ _________________ _ ___________ Introducción a la redacción de un informe técnico ¿Qué es un informe técnico?
+
+Un informe técnico es un documento formal que presenta información sobre un tema técnico, proyecto, experimento o proceso de una manera sistemática, factual y objetiva.A diferencia de ensayos o artículos de revistas, un informe técnico se centra en presentar datos, análisis y resultados claramente para que otros puedan entender, replicar o tomar decisiones basadas en los resultados.
+
+• Propósito: Documentar y comunicar información técnica.
+
+• Para apoyar la toma de decisiones o proporcionar recomendaciones.
+
+• Para registrar experimentos o diseñar resultados para referencia futura.
+
+• Demostrar competencias técnicas y profesionalidad.
+
+• Características escritas para un propósito específico y un público específico .
+
+• Estructurados en secciones como el Abstracto, la Metodología, los Resultados y las Conclusiones.
+
+• Se centra en la objetividad , la claridad y la precisión .
+
+• Incorpora datos visuales grafos, gráficos, tablas y cifras.
+
+• Escrito en un estilo formal e impersonal, evitando emociones o prejuicios.
+
+Aplicaciones comunes • Informes de laboratorio en las universidades.
+
+• Informes de proyecto o viabilidad en ingeniería/negocio.
+
+• Informes de investigación para la documentación científica.
+
+• Informes sobre el progreso o el estado de las organizaciones.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 2 Importancia de la estructura de la sentencia En la escritura técnica, cada frase debe entregar una idea clara y lógica.
+
+Claridad  Expresar una idea por oración.
+
+O No claro: Después del calentamiento, la mezcla cambió, lo que podría ser debido a la impureza. o Listo: Después del calentamiento, la mezcla cambió de color, lo que indica una posible contaminación. 2.
+
+Vago: La máquina trabajó durante algún tiempo. o Precisión: La máquina funcionó continuamente durante 3 horas.  3. Brevidad  Eliminar palabras innecesarias sin perder significado.
+
+Wordy: Se encontró que es necesario enfriar la muestra. o Concisamente: La muestra debe ser enfriada. 4. Parallelismo  Mantener un patrón gramatical consistente en listas o series.
+
+o Incorrecto: Los objetivos son aumentar la eficiencia, reducir los costos y mejorar la precisión. o Correcto: Los objetivos son aumentar la eficiencia, reducir los costos y mejorar la precisión. 5.
+
+Activos: Hemos realizado el experimento. o Pasivos: El experimento se realizó. Común Fallos • Prónimos ambiguos (por ejemplo, it,this) • Frases demasiado largas • Palabras redundantes (completamente completas, periodo de tiempo) • Jargón sin explicación TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 3 o Usando Transiciones para unirse a las frases Propósito de las Transiciones Las Transiciones actúan como puentes entre ideas, frases y párrafos. Ayudan al lector a seguir el flujo lógico de pensamiento en la escritura técnica, donde la precisión y la claridad son fundamentales. Profesiones.
+
+Además, además, además, además, contraste sin embargo, pero, sin embargo, por otro lado, aunque Causeeffect por lo tanto, así, consecuentemente, como resultado Sequencia/Orden primero, segundo, siguiente, finalmente, posteriormente Ejemplo/Illustración por ejemplo, por ejemplo, es decir, como Comparación de manera similar, de la misma manera Conclusión/Resumen en conclusión, en general, por lo tanto, para resumir Ejemplo • Sin transiciones: El material se calentó a 100 °C. La reacción no comenzó.  • Con transiciones: El material se calentó a 100 °C; sin embargo, la reacción no comenzó.  Consejos • Evite comenzar cada oración con y, pero, o así.
+
+• El uso excesivo de las transiciones puede hacer que la escritura artificial se utilice solo cuando mejore la claridad.
+
+Usar tensiones en la escritura técnica Tenses establece la referencia temporal de sus acciones, hallazgos e interpretaciones.El uso consistente de tensiones es esencial para mantener la claridad y la profesionalidad.
+
+Guías generales • Past tense → Usadas para describir métodos, experimentos y resultados.
+
+• Present tense → Se utiliza para verdades generales, teorías establecidas y discusiones en curso.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 4 • Futuro tiempo → Usado para recomendaciones o trabajo planificado.
+
+Ejemplos de la sección Recomendado Tensión Ejemplo Introducción Presente Este informe analiza el diseño de... Métodos Pasados Muestras fueron calentadas a 300 °C. Resultados Pasados La reacción produjo un residuo azulado. Discución Presente Esto indica que el catalizador aumenta la actividad. Conclusión/ Recomendaciones Presentes o Futuras Se recomienda que se realicen más pruebas. Consejo Si se describe un experimento específico, mantenga el tiempo pasado en todo el tiempo.Cuando se conecta con la teoría más amplia o el fondo, cambia a presentar para los hechos aceptados.
+
+Planificar el informe técnico La planificación del informe técnico es el primer y más importante paso en la redacción del informe técnico, que implica decidir qué escribir, cómo escribir y para quién escribir.
+
+Importancia de la planificación • Ahorra tiempo y esfuerzo • Evitar la repetición y la falta de información • Asegura el flujo lógico de ideas • Mejora la calidad y la claridad a. Definición del propósito del informe El escritor debe definir claramente por qué se está escribiendo el informe .
+
+Propósitos comunes incluyen: • Para informar TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 5 • Para analizar • Para evaluar • Para recomendar • Para documentar el trabajo técnico b. Seleccionando el tipo de informe técnico Basado en el propósito, el escritor selecciona el tipo de informe: • informe de laboratorio • informe de investigación • informe de progreso • informe de viabilidad • informe de proyecto • Cada tipo de informe tiene una estructura y tono específicos.
+
+c. Identificar el lector (s) Identificar los lectores es uno de los pasos de planificación más importantes.
+
+Los lectores técnicos o ingenieros, científicos o Requieren datos detallados, fórmulas y diagramas 2. Los lectores semi-técnicos o gerentes, supervisores o interesados en los resultados y recomendaciones 3. Los lectores no técnicos o clientes, funcionarios públicos o Requieren lenguaje y explicaciones simples Planificación ayuda a ajustar: • nivel de lenguaje • profundidad técnica • Uso de imágenes TECHNICAL PAPER RITING & IPR [B23AC3201 ] A.Neelima , Prof. Asst, CSE CIC Sagi Rama Krishnam Raju Engineering (A) 6 d. Recopilar información debe ser: • exacto • Relevante • confiable • Fuentes de información • Actualizadas • Experimentos y observaciones • Encuestas y directrices • libros y revistas • Manual de datos de la compañía • Poor información de la compañía • Informes de los registros técnicos para un informe de los cuestionarios pobres.
+
+E. Analizar y organizar información Los datos recogidos deben ser: • Estudiados • Clasificados • Comparados • Interpretados Información innecesaria debe ser eliminada para mantener la claridad.
+
+f. Preparar un esquema Un esquema es el esqueleto del informe.
+
+Importancia de un esquema • Organiza las ideas lógicamente • Asegura la integridad • Previene la repetición del esquema de muestra 1. Introducción 2. Objetivos TECHNICAL PAPER RITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 7 3. Metodología 4. Resultados 5. Discución 6. Conclusión 7. Recomendaciones g. Programación y Planificación de la gestión del tiempo también incluyen: • Establecimiento de plazos • Preparación de proyectos • Editación y corrección • Envío final Identificando lectores (s) / Análisis de la capacidad de comprensión de su audiencia audiencia el nivel de detalle, tono y vocabulario utilizado.
+
+Tipos de audiencias 1. lectores técnicos  Tengan un sólido conocimiento técnico (ingenieros, científicos).
+
+2. lectores no técnicos  Gerentes, clientes, responsables políticos.Prefieren resúmenes concísos y ayudas visuales en lugar de jerarquía.
+
+3. audiencia mixta  Combine ambos enfoques: breve resumen ejecutivo + cuerpo técnico detallado.
+
+Preguntas a considerar ¿Qué ya sabe el lector?
+
+• ¿Qué necesitan saber?
+
+• ¿Qué decisiones tomarán basándose en este informe?
+
+Ejemplo al explicar un proceso químico: • Para expertos: dar ecuaciones de reacción y cinética.
+
+• Para los ejecutivos: describir los resultados y la rentabilidad.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 8 Voz en Técnica de Escritura Voz se refiere a la relación entre el sujeto y la acción (activa vs pasiva).
+
+Active Voice • El sujeto realiza la acción.
+
+Ejemplo: El ingeniero probó el prototipo. • Llamado, directo, pero puede sonar personal.
+
+Voz pasiva • El sujeto recibe la acción.
+
+Ejemplo: El prototipo fue probado por el ingeniero. • Más objetivo y comúnmente utilizado en contextos técnicos.
+
+Cuando usar • Utilice voz activa cuando explique quién hace lo importante.
+
+• Utilice pasivo al centrarse en lo que sucedió, no en quién lo hizo.
+
+Equilibrar demasiada voz pasiva puede hacer que la escritura sea ambigua, alternar entre activa y pasiva para obtener claridad y énfasis.
+
+El formato adecuado mejora enormemente la legibilidad, la profesionalidad y la consistencia.
+
+Elementos de formato esenciales • Fuente: Times New Roman o Arial, 12 pt.
+
+• Espaciamiento de línea: 1,5 o el doble.
+
+• Margen: 1 pulgada en todos los lados.
+
+• Titulares y subtitulares numerados.
+
+• Figuras y tablas debidamente etiquetadas y referenciadas en el texto.
+
+• Estilo de citación uniforme (APA, IEEE, etc.).
+
+Componentes del documento • Página de título: Nombre, título del informe, organización, fecha.
+
+• Tabla de contenido: generada automáticamente para navegación.
+
+• Numeración de páginas: Consistente en todas partes.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 9 • Título jerarquía: Ejemplo  1.0 Introducción → 1.1 Background → 1.1.1 Propósito.
+
+Consejos de formato • Utilice puntos de bala y numeración para mayor claridad.
+
+• Mantenga una alineación y una inclinación consistentes.
+
+• Incluya títulos para figuras/tabulas inmediatamente debajo de ellas.
+
+Secciones de un informe técnico Un informe técnico completo incluye: 1. Página de título  Incluye el título, autor, fecha, organización y nombre del proyecto.
+
+2. resumen abstracto/ejecutivo  150250 palabras resumiendo el propósito, los métodos, los resultados y las conclusiones.
+
+3. la tabla de contenidos  Proporciona una navegación rápida.
+
+4. Introducción  Introduce el problema, los objetivos y el contexto.
+
+5. Revisión de la literatura (opcional)  Revisiones generales de trabajo o teoría anteriores.
+
+6.Método  Detalles de procedimientos, equipos, materiales y mediciones.
+
+7.Resultados  Presenta los datos claramente utilizando imágenes y explicaciones.
+
+8. Discución  Interpreta y analiza los resultados; explica la importancia.
+
+9.Conclusiones  Destaca los principales hallazgos; responde objetivos.
+
+10. Recomendaciones  Sugere acciones, mejoras o más investigación.
+
+11.- Referencias  Listas de todas las fuentes citadas.
+
+12. los apéndices  Contienen datos en bruto, fórmulas o cálculos detallados.
+
+Las minutas son registros escritos oficiales de las discusiones, decisiones y acciones de una reunión, ofrecen responsabilidad, sirven como documentación legal y ayudan a rastrear el progreso.
+
+La estructura de los minutos 1.Heading: Incluye la organización, la fecha, la hora, la ubicación y los asistentes.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE CIC Sagi Rama Krishnam Raju Engineering College (A) 10 2.El propósito: Indica el objetivo de la reunión o resumen de la agenda.
+
+3. cuerpo: organizado por puntos del orden del día. para cada punto, nota: o Breve resumen de la discusión.
+
+o Las decisiones tomadas.
+
+o Acciones asignadas y personas responsables.
+
+4. conclusión: Registra los comentarios de cierre o los detalles de la próxima reunión.
+
+5.- Firma: Preparada por el secretario/registrator con nombre y fecha.
+
+Formulario Ejemplo de Item No. Agenda Item Discussion Resumen de decisión/acción Persona Responsable Deadline 1 Actualización del proyecto tarea 2 retrasada debido a un problema de suministro Extender el cronograma por 1 semana Proyecto gerente Dec 15 2025 2 Revisión presupuestaria aprobado presupuesto revisado Notificar el departamento de finanzas Secretario Dec 10 2025 Consejos para escribir minutos • Escribir en tiempo pasado y en tercera persona.
+
+• Mantenga el lenguaje neutral no opiniones o juicios.
+
+• Registra sólo puntos clave no todas las conversaciones.
+
+• Revise y difundir inmediatamente después de la reunión.
+

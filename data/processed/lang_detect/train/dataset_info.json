@@ -1,0 +1,76 @@
+{
+  "builder_name": "csv",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "language-identification",
+  "dataset_size": 15811071,
+  "description": "",
+  "download_checksums": {
+    "hf://datasets/papluca/language-identification@aa56583bf2bc52b0565770607d6fc3faebecf9e2/train.csv": {
+      "num_bytes": 11951457,
+      "checksum": null
+    },
+    "hf://datasets/papluca/language-identification@aa56583bf2bc52b0565770607d6fc3faebecf9e2/valid.csv": {
+      "num_bytes": 1705420,
+      "checksum": null
+    },
+    "hf://datasets/papluca/language-identification@aa56583bf2bc52b0565770607d6fc3faebecf9e2/test.csv": {
+      "num_bytes": 1686134,
+      "checksum": null
+    }
+  },
+  "download_size": 15343011,
+  "features": {
+    "labels": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "attention_mask": {
+      "feature": {
+        "dtype": "int8",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 31154082,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 12315318,
+      "num_examples": 70000,
+      "dataset_name": "language-identification"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 1757455,
+      "num_examples": 10000,
+      "dataset_name": "language-identification"
+    },
+    "test": {
+      "name": "test",
+      "num_bytes": 1738298,
+      "num_examples": 10000,
+      "dataset_name": "language-identification"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

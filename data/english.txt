@@ -1,0 +1,358 @@
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 1
+
+Technical paper writing & IPR
+
+UNIT -II
+
+_________________ _________________ __________________ You are the most important persons who are involved in the Building.
+
+The syllable is:
+
+Draft reports and draft questions: The use of drafts, illustrations and graphics Endworking:
+
+Grammar, Rechtschreibung, Lesbarkeit and Schreiben in simpler English: Write in simpler English, Jargon
+
+The question of the structure and the final layout, spelling, punctuation and grammar, padding, paragraphs,
+
+The ambition is to be ambitious.
+
+_________________________________ __________________ Most people who feel able to behave are able to behave.
+
+Entwurfsbericht:
+
+The Draft and Final Processing are the Stages in which a technical report is formulated,
+
+Clarified and polished so that readers can easily and accurately understand it.
+
+The use of Entwürfen:
+
+• The purpose of the Draft
+
+• A draft is a preliminary version of a report, used to develop ideas,
+
+Structure and Argumentation before the final filing
+
+• The design separates the content creation of the polishing, also the writer.
+
+Zuerst focuses the study on what to say, and later on how to say it.
+
+• Multiple Draft and Review
+
+• Early designs can be rough and incomplete; later designs can be verfeinern.
+
+Structure, evidence, transitional forms and style
+
+• Every new draft should respond to feedback, clarify confusing parts,
+
+and irrelevant Material entfernen
+
+• Good practices for the drafting process
+
+• Start with an Umriss, then expand to full paragraphs and paragraphs.
+
+The following sections are listed below.
+
+• Leave time between Draft Drafts to check and review with fresh eyes.
+
+Whether the report corresponds to the Project Objectives or the Project Orders
+
+Illustrations and graphics
+
+• The role of visuals in technical reports
+
+• Illustrations (Zeichen, Diagrams, Photographs, Graphics) are also available.
+
+Complex information in a compact, comprehensible form
+
+• Graphics supporting the Text: You should explain data, show trends,
+
+Designs to illustrate or processes to clarify, rather than decorate.
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 2
+
+• Design principles for graphic design
+
+• Use simple, clear drawings or graphics, which are created specifically for those.
+
+With a lot of contrast and lesbian coloration.
+
+• Each Bild must have a numbered Underbilling (e.g. Figure 2: Stress).
+
+(Stream Curve) and near its placement in the Text are mentioned
+
+• Placement and Integration
+
+• Place small diagrams immediately after their first mention and as a
+
+So please, as far as possible, the corresponding Text.
+
+For long reports, enter the Zahlenlisten and Tabellen and ensure that the
+
+Uniform formatting and numerization everywhere
+
+Grammar and spelling (letzte Bearbeitung)
+
+• The importance of grammatical accuracy
+
+• The correct grammar ensures that sentences express the intended content.
+
+and that the relationships between the Ideas are clear.
+
+• Common problems include the subject of verb differences of opinion, false
+
+Tense, Satzfragment and Run -on-Sätze
+
+• Rechtschreib- and Typographichefehler
+
+• Rechtschreibfehler and Tippfehler reduce credibility and linking to Leser ab.
+
+The technical content of the content is technical.
+
+• Typical problems are confusion between similar Wörterns (z.B.).
+
+effect), doubled Wörter, missing letters and inconsistent affect
+
+The right-hand spelling (British vs. American) is
+
+• Strategies for the Review of Grammar and Spelling
+
+• Use automated Schecker, but also read Slow, Satz von.
+
+Focus on one type of error in a sentence at a time.
+
+• Read aloud or from a printed copy, to be unpleasant
+
+Frasen-, fehlende Wörter- and Punktuationsfehler is easier to form
+
+Lesbarkeit und Schreiben in simpler English
+
+• The concept of lesseness
+
+• Lesserness refers to how easy the audience is to read and read.
+
+Understanding of the Text in relation to the Vokabular, Satzlänge and
+
+Structure and structure
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 3
+
+• Technical information must be accurate and accessible so that the information is available.
+
+The language should be in line with the knowledge of readers.
+
+• Write in simpler English
+
+• The Plain English uses short sentences, familiar Wörter and .
+
+Simple structures to explain complex ideas clearly.
+
+• They prefer active voice, concrete terms, and direct statements; they avoid
+
+Unnecessary complexity and convoluted Satzmuster
+
+• Techniques to improve the elasticity of the skin
+
+• Break long sentences into shorter ones and keep the paragraphs at a minimum.
+
+Focuses on one main idea
+
+• Use headings, listen and clear transitions to guide the reader
+
+Logisch through Abschnitte
+
+Jargon and layout problems
+
+• Jargon and technical terms
+
+• Jargon consists of specialized Wörterns, which are used within a technical or
+
+The professional community (e.g. latency, throughput)
+
+• The Einiger Jargon is necessary in technical reports, but unexplained or
+
+Excessive jargon can confuse non-experts with Leser
+
+• The Management of Jargon
+
+• Definition of essential technical terms, when used for the first time, and use of them
+
+consistently throughout the entire Document.
+
+• Replace unnecessary jargon, if possible, with well-known words,
+
+Especially in Summaries, Abstracts and Conclusions
+
+• Endliches Layoutproblems
+
+• The layout deckt das Page Design ab: Margen, Schriften, Abstand, Headings, and other features.
+
+Numbering and Placement of Tables/Zahlen
+
+• Unconsequentes Layout (Random-Fonts, irregular distances, and misselinigniertheit)
+
+The overhead) makes a report unprofessional and harder to follow.
+
+• Good layout practices
+
+• Use a standardized, leasable Schriftart, uniform overschrift levels, uniform writing
+
+Margin and uniform linear mapping procedures are institutional in size.
+
+Directives and guidelines
+
+• Make sure that you have the page number, the section number, the number of pages/table numbers,
+
+The Reference and Reference Style are equivalent throughout the entire Document.
+
+Rechtschreibung, Punktuation and Grammar (together)
+
+• The interaction of these elements
+
+• Spelling, punctuation and grammar work together to mediate.
+
+To determine the meaning precisely and to avoid misinterpretations.
+
+• Errors in one of these areas can change the meaning of a sentence
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 4
+
+Or they make it harder to understand.
+
+• Punctuation-Focusage
+
+• Frequent problems: comma splices, missing full stops, incorrect use
+
+von Halb- und Spitzepunkten and the unconsequential use of Listen and Kugeln
+
+The punctuation is the same.
+
+• Correct punctuation clarifies the boundaries of the set, separates the elements
+
+in a List and concrete, where necessary, the Schwerpunkt
+
+• Systematic review of the last editing process
+
+• Review one element after another, for example, make a Read -durch for
+
+One for the spelling, one for the grammar.
+
+• Use the Stilleit lines or Course guidelines to obtain the Consistenzen.
+
+The Großbuchstaben, Zweiheben and Listenstile are the most common.
+
+Padding
+
+• The meaning of Polsterung
+
+• Padding means adding unnecessary words, sentences or sections.
+
+This is a type of information that does not provide new information or analysis.
+
+• It often appears as a repetition, vague statement or overlanges.
+
+To achieve a required word count
+
+• Problems with Padding
+
+• The Padding diminishes the Consistency, hides the Main Message and the
+
+Frustriert Leser, who must seek out the important points.
+
+• It may make the report appear less rigorous and weaken the report.
+
+An impression of technical competence
+
+• How to use the pad
+
+• Repeat the ideas, read the sentences (it is important to note that),
+
+and tangential information, which is not necessary for the purpose of the Reports.
+
+• They prefer concrete facts, data and clear explanations over concrete statements.
+
+The General and Fulfillment Questions
+
+The paragraph is "Praise the Lord".
+
+• The role of paragraphs in the structure
+
+• Paragraphs are the basic units for the organization of ideas; each paragraph is the basic unit.
+
+A paragraph should develop a main point or a closely related set of points.
+
+Points Points
+
+• well-structured paragraphs help the reader to follow the logic of the text.
+
+One idea is passed on to the next.
+
+• Paragraph-Components
+
+• A typical paragraph in a technical report has a thematic essay,
+
+Supportive phrases (data, explanations, examples) and a course
+
+The completion or connection rate is the same.
+
+• Der Themensatz signals the main idea early, so that the reader knows
+
+Was man can in the Rest des Absatzes erwarten
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 5
+
+• Paragraphs and coherence
+
+• Over-length paragraphs with many different ideas are hard to find.
+
+Read it; very short, isolated paragraphs can break the flow.
+
+• Use the transitional forms (e.g. B. however, therefore, in contrast) to link.
+
+Paragraphs and show the relationships between the Ideas.
+
+The uncertainty.
+
+• The importance and risks of ambiguity
+
+• Ambiguity arises when a sentence or a sentence can be interpreted in.
+
+In more than one way, or if the References are unclear
+
+• In technical writing, ambiguity can lead to design errors, safety and security.
+
+Problems, misapplied procedures or false conclusions
+
+• Common sources of ambiguity
+
+• Vage Wörter (soon,some,frequently), unklares Pronoun
+
+References (it, they), and unprecised Mengen (a few, many)
+
+• Complex, poorly punctuated sentences and inconsistent
+
+Terminology also creates ambiguity.
+
+• Techniques to avoid ambiguity
+
+• Use specific terms, explain the number and identify the themes clearly.
+
+and objects (e.g. the Steuerungsschalter schaltet the Motor ab, if the
+
+The temperature is above 80°C.
+
+• Use Standard patterns or Templates for requirements and requirements.
+
+Instructions (e.g. Das System muss...) and uniform instructions are received.
+
+The terminology is everywhere.
+

@@ -1,0 +1,358 @@
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE 
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 1 
+
+TECHNICAL PAPER WRITING & IPR 
+
+UNIT -II 
+
+_________________________________ _________________ __________________ Sie sind die wichtigsten Personen, die sich mit dem Gebäude beschäftigen.
+
+SYLLABUS: 
+
+Entwurfsberichte und Entwurfsfragen: Die Verwendung von Entwürfen, Illustrationen und Grafiken Endbearbeitung: 
+
+Grammatik, Rechtschreibung, Lesbarkeit und Schreiben in einfacher Englisch: Schreiben in einfacher Englisch, Jargon 
+
+Die Frage nach dem Ausbau und dem endgültigen Layout, Rechtschreibung, Punktuation und Grammatik, Padding, Paragraphen, 
+
+Ambigität
+
+_________________________________________________ _________________ __________________ __________________ Die meisten Menschen, die sich in der Lage fühlen, sich zu verhalten, sind in der Lage, sich zu verhalten.
+
+Entwurfsbericht: 
+
+Die Entwurf und die endgültige Bearbeitung sind Stufen, in denen ein technischer Bericht geformt wird, 
+
+Klargestellt und poliert, damit die Leser es leicht und genau verstehen können
+
+Verwendung von Entwürfen: 
+
+• Zweck der Entwürfe 
+
+• Ein Entwurf ist eine vorläufige Version eines Berichts, der zur Entwicklung von Ideen verwendet wird, 
+
+Struktur und Argumentation vor der endgültigen Einreichung
+
+• Das Entwerfen trennt die Content-Erstellung von der Polishing, also der Schriftsteller 
+
+Zuerst konzentriert sich die Studie darauf, was zu sagen ist, und später darauf, wie man es sagt.
+
+• Mehrere Entwürfe und Revision 
+
+• Frühe Entwürfe können grob und unvollständig sein; spätere Entwürfe verfeinern 
+
+Struktur, Beweise, Übergangsformen und Stil
+
+• Jeder neue Entwurf sollte auf Feedback reagieren, verwirrende Teile klären, 
+
+und irrelevantes Material entfernen
+
+• Gute Praktiken für die Entwurfsprozesse 
+
+• Beginnen Sie mit einem Umriss, dann erweitern Sie sich in volle Absätze und 
+
+Abschnitte Abschnitte
+
+• Lassen Sie Zeit zwischen Entwürfen, um mit frischen Augen zu überprüfen und zu überprüfen.
+
+Ob der Bericht den Auftrag oder die Projektziele entspricht
+
+Illustrationen und Grafiken 
+
+• Die Rolle von Visuals in technischen Berichten 
+
+• Illustrationen (Zeichen, Diagramme, Fotografien, Grafiken) vorhanden 
+
+Komplexe Informationen in einer kompakten, verständlicheren Form
+
+• Grafiken unterstützen den Text: Sie sollten Daten erklären, Trends zeigen, 
+
+Entwürfe zu illustrieren oder Prozesse zu klären, anstatt zu dekorieren
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE 
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 2 
+
+• Designprinzipien für Grafiken 
+
+• Verwenden Sie einfache, klare Zeichnungen oder Grafiken, die speziell für die  geschaffen wurden.
+
+Mit hoher Kontrastfarben und lesbaren Etiketten berichten
+
+• Jedes Bild muss eine nummerierte Unterabbildung haben (z.B. Figure 2: Stress ).
+
+(Stream Curve) und in der Nähe seiner Platzierung im Text erwähnt werden
+
+• Platzierung und Integration 
+
+• Platzieren Sie kleine Diagramme sofort nach ihrer ersten Erwähnung und als 
+
+So nah wie möglich dem entsprechenden Text.
+
+• Für lange Berichte geben Sie Zahlenlisten und Tabellen und sorgen dafür, dass 
+
+Einheitliches Formatieren und Nummerieren überall
+
+Grammatik und Rechtschreibung (letzte Bearbeitung) 
+
+• Wichtigkeit der grammatischen Genauigkeit 
+
+• Die richtige Grammatik sorgt dafür, dass Sätze den beabsichtigten Inhalt ausdrücken.
+
+und dass die Beziehungen zwischen den Ideen klar sind.
+
+• Häufige Probleme sind unter anderem Thema Verb Meinungsverschiedenheit, falsche 
+
+Tense, Satzfragmente und Run -on-Sätze
+
+• Rechtschreib- und Typografiefehler 
+
+• Rechtschreibfehler und Tippfehler reduzieren Glaubwürdigkeit und lenken Leser ab.
+
+von technischem Inhalt
+
+• Typische Probleme sind Verwirrung zwischen ähnlichen Wörtern (z.B. ).
+
+affect/effect), verdoppelte Wörter, fehlende Buchstaben und inkonsistente 
+
+Rechtschreibstile (Britisch vs. Amerikanisch)
+
+• Strategien zur Überprüfung von Grammatik und Rechtschreibung 
+
+• Verwenden Sie automatisierte Schecker, aber lesen Sie auch langsam, Satz von 
+
+Konzentrieren Sie sich auf eine Art von Fehlern in einem Satz zu einem Zeitpunkt
+
+• Lese laut oder aus einem gedruckten Exemplar, um unangenehm zu sein 
+
+Frasen-, fehlende Wörter- und Punktuationsfehler leichter zu formulieren
+
+Lesbarkeit und Schreiben in einfacher Englisch 
+
+• Konzept der Lesbarkeit 
+
+• Lesbarkeit bezieht sich darauf, wie leicht das Publikum lesen und 
+
+Verständnis für den Text in Bezug auf Vokabular, Satzlänge und 
+
+Struktur und Struktur
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE 
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 3 
+
+• Technische Informationen müssen genau und zugänglich sein, so dass die 
+
+Die Sprache sollte dem Kenntnisstand des Lesers entsprechen.
+
+• Schreiben in einfacher Englisch 
+
+• Das Plain English verwendet kurze Sätze, vertraute Wörter und .
+
+Einfache Strukturen, um komplexe Ideen klar zu erklären
+
+• Sie bevorzugen aktive Stimme, konkrete Begriffe und direkte Aussagen; vermeiden Sie 
+
+Unnötige Komplexität und konvolutierte Satzmuster
+
+• Techniken zur Verbesserung der Lesbarkeit 
+
+• Brechen Sie lange Sätze in kürzere und halten Sie die Absätze bei 
+
+konzentriert sich auf eine Hauptidee
+
+• Verwenden Sie Überschriften, Listen und klare Übergangsvorgänge, um den Leser zu leiten 
+
+Logisch durch Abschnitte
+
+Jargon- und Layoutprobleme 
+
+• Jargon und technische Begriffe 
+
+• Jargon besteht aus spezialisierten Wörtern, die innerhalb einer technischen oder 
+
+Die professionelle Gemeinschaft (z.B. latency, throughput)
+
+• Einiger Jargon ist in technischen Berichten notwendig, aber unerklärlich oder 
+
+Übermäßiges Jargon kann nicht-experte Leser verwirren
+
+• Das Management von Jargon 
+
+• Definition von wesentlichen technischen Begriffen, wenn sie zum ersten Mal verwendet werden, und Verwendung von ihnen 
+
+konsequent im gesamten Dokument
+
+• Ersetzen Sie unnötiges Jargon, wenn möglich, durch bekannte Wörter, 
+
+Besonders in Zusammenfassungen, Abstracts und Schlussfolgerungen
+
+• Endliches Layoutprobleme 
+
+• Das Layout deckt das Page Design ab: Margen, Schriften, Abstand, Überschriften, 
+
+Nummerierung und Platzierung von Tabellen/Zahlen
+
+• Unkonsequentes Layout (Random-Fonts, unregelmäßiges Abstandspazieren, Misselinigniertheit )
+
+Überschriften) machen einen Bericht unprofessionell und schwerer zu folgen.
+
+• Gute Layoutpraktiken 
+
+• Verwenden Sie eine standardisierte, lesbare Schriftart, einheitliche Überschriftniveaus, einheitliche 
+
+Margen und einheitliches Linienpazierungsverfahren je institutionelle Größe.
+
+Richtlinien
+
+• Stellen Sie sicher, dass Sie Seitennummern, Abschnittennummern, Zahlen/Table-Nummern, 
+
+Die Referenz- und Referenz-Stil sind im gesamten Dokument gleichwertig
+
+Rechtschreibung, Punktuation und Grammatik (zusammen) 
+
+• Die Wechselwirkung dieser Elemente 
+
+• Rechtschreibung, Punktuation und Grammatik arbeiten zusammen, um  zu vermitteln.
+
+um die Bedeutung genau zu bestimmen und Fehlinterpretationen zu vermeiden
+
+• Fehler in einem dieser Bereiche können die Bedeutung eines Satzes verändern 
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE 
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 4 
+
+oder sie erschweren das Verständnis
+
+• Punctuation-Fokusbereiche 
+
+• Häufige Probleme: Komma-Splices, fehlende Vollstoppungen, falsche Verwendung 
+
+von Halb- und Spitzepunkten und der unkonsequenten Verwendung von Listen und Kugeln 
+
+Die Punktuation
+
+• Korrektes Punktuation klärt die Satzgrenzen, trennt die Elemente 
+
+in einer Liste und betont, wo nötig, den Schwerpunkt
+
+• Systematische Überprüfung beim letzten Bearbeiten 
+
+• Überprüfen Sie ein Element nach dem anderen zum Beispiel, machen Sie ein Lesen -durch für 
+
+Eine für die Rechtschreibung, eine für die Grammatik.
+
+• Verwenden Sie Stilleitlinien oder Kursrichtlinien, um die Konsistenz in  zu erhalten.
+
+Großbuchstaben, Zweiheben und Listenstile
+
+Padding 
+
+• Bedeutung von Polsterung 
+
+• Padding bedeutet, unnötige Wörter, Sätze oder Abschnitte hinzuzufügen 
+
+Das ist eine Art von Information, die keine neuen Informationen oder Analysen bietet.
+
+• Es erscheint oft als Wiederholung, vage Aussagen oder überlanges 
+
+um einen erforderlichen Wortzahlen zu erreichen
+
+• Probleme durch Padding 
+
+• Das Padding verringert die Konzisenz, verbirgt die Hauptbotschaft und 
+
+Frustriert Leser, die nach wichtigen Punkten suchen müssen
+
+• Es kann den Bericht weniger strikt erscheinen lassen und den Bericht schwächen.
+
+Ein Eindruck von technischer Kompetenz
+
+• Wie man das Polster entfernt 
+
+• Wiederholte Ideen, leere Sätze löschen (it ist wichtig zu beachten, dass), 
+
+und tangentielle Informationen, die nicht für den Zweck des Berichts erforderlich sind.
+
+• Sie bevorzugen konkrete Fakten, Daten und klare Erklärungen statt 
+
+Allgemeinheiten und Ausfüllungsfragen
+
+Paragraphen 
+
+• Die Rolle von Absätzen in der Struktur 
+
+• Paragraphen sind die grundlegenden Einheiten für die Ideenorganisation; jeder 
+
+Ein Absatz sollte einen Hauptpunkt oder einen eng verwandten Satz von  entwickeln.
+
+Punkte Punkte
+
+• gut strukturierte Absätze helfen dem Leser, die Logik von  zu verfolgen.
+
+Eine Idee übertragen sie der nächsten
+
+• Paragraph-Komponenten 
+
+• Ein typischer Absatz in einem technischen Bericht hat einen Themensatz, 
+
+Unterstützende Sätze (Daten, Erklärungen, Beispiele) und eine kurze 
+
+Abschluss- oder Verknüpfungssatz
+
+• Der Themensatz signalisiert die Hauptidee frühzeitig, damit die Leser wissen 
+
+Was kann man im Rest des Absatzes erwarten
+
+TECHNICAL PAPER WRITING & IPR [B23AC3201 ] A.Neelima , Asst Prof, CSE 
+
+CIC Sagi Rama Krishnam Raju Engineering College (A) 5 
+
+• Paragraphlänge und Kohärenz 
+
+• Überlängeige Absätze mit vielen verschiedenen Ideen sind schwer zu finden.
+
+Lesen Sie; sehr kurze, isolierte Absätze können den Fluss brechen
+
+• Verwenden Sie Übergangsformen (z. B. however, therefore, in contrast) um  zu verknüpfen.
+
+Paragraphen und zeigen die Beziehungen zwischen den Ideen
+
+Unklarheit 
+
+• Bedeutung und Risiken von Zweideutigkeit 
+
+• Zweideutigkeit entsteht, wenn ein Satz oder ein Satz in  interpretiert werden kann.
+
+Auf mehr als eine Weise, oder wenn die Referenzen unklar sind
+
+• Im technischen Schreiben kann Zweideutigkeit zu Designfehlern, Sicherheit und Sicherheit führen.
+
+Probleme, falsch angewandte Verfahren oder falsche Schlussfolgerungen
+
+• Gemeinsame Quellen von Zweideutigkeiten 
+
+• Vage Wörter (soon,some,frequently), unklares Pronom 
+
+Referenzen (it, they), und unpräzise Mengen (a few, many)
+
+• Komplexe, schlecht gepunktierte Sätze und inkonsistente 
+
+Terminologie auch schaffen Zweideutigkeit
+
+• Techniken zur Vermeidung von Zweideutigkeiten 
+
+• Verwenden Sie spezifische Begriffe, explizite Mengen und identifizieren Sie die Themen klar.
+
+und Objekte (z.B. Der Steuerungsschalter schaltet den Motor ab, wenn der 
+
+Temperatur überschreitet 80°C)
+
+• Verwenden Sie Standardmuster oder Vorlagen für Anforderungen und 
+
+Anweisungen (z.B. Das System muss...) und einheitliche -Anweisungen erhalten.
+
+Die Terminologie ist überall 
+
