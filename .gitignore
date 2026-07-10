@@ -12,3 +12,4 @@ nllb_ft2/
 *.bin
 
 tmp_audio.wav
+ffmpeg-8.0.1-essentials_build/
